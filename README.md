@@ -11,3 +11,4 @@ Algorithm used for predicting and get accuracy are -
 6. train_test_split
 We are making accuracy and prediction in Iris project through Iris Dataset.
 This is easy and understable for machine learning staters( Naive )
+PS: Please do not forget to drop a star if you like it!
